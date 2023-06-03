@@ -1,8 +1,7 @@
 ![banner](https://github.com/sweetmangoes/sweetmangoes/blob/main/Blue%20Gradient%20Header%20Banner.png)
 
-### Hi there 👋
-
 ## About me 
+Hi there 👋, 
 
 My name is Christian. 
 
