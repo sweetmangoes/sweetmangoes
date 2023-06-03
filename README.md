@@ -7,7 +7,7 @@ My name is Christian.
 
 I am a bilingual (English and French) full stack developer with significant experience in finance and customer service. Recent graduate of a web development boot camp at [Lighthouse Labs](https://www.lighthouselabs.ca/). I'm looking to transition into a career in programming.  
 
-Outside of programming, my hobby is to [blog](https://www.christianalphonse.com/),[youtube](https://www.youtube.com/channel/UC44GqK2pmtBbCedkxQfDx-w) and [podcast](https://open.spotify.com/show/1RIOJh4Z2IXbzekzVbnqBc) about food and traveling. 
+Outside of programming, my hobby is to [blog](https://www.christianalphonse.com/), [youtube](https://www.youtube.com/channel/UC44GqK2pmtBbCedkxQfDx-w) and [podcast](https://open.spotify.com/show/1RIOJh4Z2IXbzekzVbnqBc) about food and traveling. 
 
 ## Currently learning 
 
@@ -16,6 +16,13 @@ I'm currently learning mobile development such as Swift, React Native.
 ## Current Projects
 
 Currently I'm working on my portfolio website and redoing my food and travel blog site. 
+
+## Technical Skills
+LANGUAGES:  JavaScript, Ruby, HTML, CSS
+FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:  NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, Active Record, Rails, SASS
+TESTING:  Storybook, Cypress, RSpec, Jest, Mocha, Chai
+SYSTEMS, CMS, AND DATABASES:  SQL, Git
+
 
 <!--
 **sweetmangoes/sweetmangoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
