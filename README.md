@@ -7,7 +7,7 @@ My name is Christian.
 
 I am a bilingual (English and French) full stack developer with significant experience in finance and customer service. Recent graduate of a web development boot camp at [Lighthouse Labs](https://www.lighthouselabs.ca/). I'm looking to transition into a career in programming.  
 
-Outside of programming, my hobby is to [blog](https://www.christianalphonse.com/) about food and travel. I also have a [youtube](https://www.youtube.com/channel/UC44GqK2pmtBbCedkxQfDx-w) and [podcast](https://open.spotify.com/show/1RIOJh4Z2IXbzekzVbnqBc) about food and traveling. 
+Outside of programming, my hobby is to [blog](https://www.christianalphonse.com/),[youtube](https://www.youtube.com/channel/UC44GqK2pmtBbCedkxQfDx-w) and [podcast](https://open.spotify.com/show/1RIOJh4Z2IXbzekzVbnqBc) about food and traveling. 
 
 Feel free t
 
