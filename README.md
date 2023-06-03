@@ -18,10 +18,10 @@ I'm currently learning mobile development such as Swift, React Native.
 Currently I'm working on my portfolio website and redoing my food and travel blog site. 
 
 ## Technical Skills
-* LANGUAGES:  JavaScript, Ruby, HTML, CSS
-* FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:  NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, Active Record, Rails, SASS
-* TESTING:  Storybook, Cypress, RSpec, Jest, Mocha, Chai
-* SYSTEMS, CMS, AND DATABASES:  SQL, Git
+* LANGUAGES:  JavaScript, Ruby, HTML, CSS.
+* FRAMEWORKS, LIBRARIES, AND ENVIRONMENTS:  NodeJS, ReactJS, Ajax, Express, EJS, jQuery, Bootstrap, Active Record, Rails, SASS, NextJS, 
+* TESTING:  Storybook, Cypress, RSpec, Jest, Mocha, Chai.
+* SYSTEMS, CMS, AND DATABASES:  SQL, Git.
 
 
 <!--
