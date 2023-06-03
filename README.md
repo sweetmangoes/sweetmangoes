@@ -9,8 +9,6 @@ I am a bilingual (English and French) full stack developer with significant expe
 
 Outside of programming, my hobby is to [blog](https://www.christianalphonse.com/),[youtube](https://www.youtube.com/channel/UC44GqK2pmtBbCedkxQfDx-w) and [podcast](https://open.spotify.com/show/1RIOJh4Z2IXbzekzVbnqBc) about food and traveling. 
 
-Feel free t
-
 ## Currently learning 
 
 I'm currently learning mobile development such as Swift, React Native. 
